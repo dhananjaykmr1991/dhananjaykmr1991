@@ -1,7 +1,7 @@
 # Hi, I'm Dhananjay! 👋
 
 ## About Me
-I'm a Co-founder and a passionate Data Science Practitioner with over 9+ years of experience. My journey in technology has been driven by a love for learning and a desire to solve real-world problems.
+I'm a Co-founder and a passionate Data Science Practitioner with over 12+ years of experience. My journey in technology has been driven by a love for learning and a desire to solve real-world problems.
 
 ## Personal Stuffs
 
