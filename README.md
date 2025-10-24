@@ -15,8 +15,8 @@ I'm a Co-founder and a passionate Data Science Practitioner with over 12+ years 
 I have experience working with a variety of technologies and tools, including:
 
 - **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries**: Flask, Django, jQuery
-- **Databases**: MongoDB, MySQL, AWS RDS
+- **Frameworks & Libraries**: Flask, Django, FastAPI, NextJS, React Native
+- **Databases**: MongoDB, MySQL
 - **Version Control**: Git
 - **Cloud Platforms**: AWS Lambda, EC2
 - **Data Science**: Scikit-learn (sklearn)
